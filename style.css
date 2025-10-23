@@ -1,0 +1,22 @@
+body {
+  background-color: #eafaf0; 
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+  background: linear-gradient(90deg, #7ddc9b, #2e8b57); 
+}
+
+.card-title {
+  color: #2e8b57; 
+}
+
+.card:hover {
+  transform: scale(1.03);
+  transition: 0.3s;
+}
+
+footer {
+  background: #0b3d2e; 
+  color: #ffffff;
+}
